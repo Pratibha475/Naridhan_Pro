@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "NariDhan Pro",
+    "slug": "naridhan_pro",
+    "version": "1.0.0",
+    "owner": "ishu_yadav_2310",
+    "icon": "./src/assets/naridhanicon.png",
+    "android": {
+      "package": "com.ishu_yadav_2310.naridhan_pro",
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/naridhanicon.png",
+        "backgroundColor": "#F8BBD0"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c9de922f-3134-498f-8b64-d2bac527276f"
+      }
+    }
+  }
+}

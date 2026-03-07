@@ -1,0 +1,40 @@
+
+export const emergencyContacts = [
+  {
+    name: 'Women Helpline',
+    nameHi: 'महिला हेल्पलाइन',
+    description: 'National Commission for Women',
+    descriptionHi: 'राष्ट्रीय महिला आयोग',
+    phone: '1091',
+    icon: 'call',
+    color: '#F44336',
+  },
+  {
+    name: 'Police',
+    nameHi: 'पुलिस',
+    description: 'Emergency Police Services',
+    descriptionHi: 'आपातकालीन पुलिस सेवाएं',
+    phone: '100',
+    icon: 'shield',
+    color: '#2196F3',
+  },
+  {
+    name: 'Ambulance',
+    nameHi: 'एम्बुलेंस',
+    description: 'Medical Emergency Services',
+    descriptionHi: 'चिकित्सा आपातकालीन सेवाएं',
+    phone: '102',
+    icon: 'medical',
+    color: '#4CAF50',
+  },
+  {
+    name: 'Domestic Abuse Helpline',
+    nameHi: 'घरेलू हिंसा हेल्पलाइन',
+    description: 'Support for domestic violence victims',
+    descriptionHi: 'घरेलू हिंसा पीड़ितों के लिए सहायता',
+    phone: '181',
+    icon: 'heart',
+    color: '#FF9800',
+    address: 'All India Women Helpline',
+  },
+];
