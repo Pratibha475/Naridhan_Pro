@@ -1,50 +1,108 @@
-# Welcome to your Expo app 👋
+NariDhan Pro 💰👩‍💼
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+NariDhan Pro is an AI-powered personal finance and wealth management application designed to empower women and individuals with smart financial planning, expense tracking, investment guidance, and financial education.
 
-## Get started
+🌟 Vision
 
-1. Install dependencies
+To make financial literacy, wealth creation, and smart money management accessible to everyone, especially women, through AI-driven insights and personalized financial guidance.
 
-   ```bash
-   npm install
-   ```
+🚀 Features
+💵 Expense & Income Tracking
+Add daily expenses and income
+Categorize transactions
+Monthly and yearly financial reports
+Visual spending analytics
+🤖 AI Financial Advisor
+Personalized budgeting suggestions
+Smart savings recommendations
+Expense pattern analysis
+Financial health score
+📈 Investment Guidance
+Beginner-friendly investment suggestions
+SIP planning
+Mutual Fund recommendations
+Goal-based investment planning
+Risk profile assessment
+🎓 Financial Learning Hub
+Personal finance courses
+Investment basics
+Budgeting tutorials
+Women-focused financial education
+Interactive learning modules
+👩 Women Special Features
+Financial independence planning
+Career and wealth growth resources
+Women entrepreneur guidance
+Savings and investment roadmaps
+🌐 Community Platform
+Financial discussion forums
+Success stories
+Learning groups
+Expert sessions
+🎤 Voice Assistant
+Voice-based expense entry
+Financial queries using voice commands
+AI-powered conversational support
+⭐ Premium Membership
+Advanced AI insights
+Personalized financial planning
+Exclusive investment reports
+Premium learning content
+🛠️ Tech Stack
+Frontend
+React Native
+Expo
+React Navigation
+Context API
+Backend
+Node.js
+Express.js
+MongoDB
+AI & Analytics
+OpenAI API
+Financial Recommendation Engine
+Data Analytics
+Authentication
+JWT Authentication
+Secure User Sessions
+📱 Screens
+Login / Signup
+Dashboard
+Expense Manager
+Investment Center
+AI Financial Advisor
+Learning Hub
+Community
+Women Special
+Premium Membership
+Profile & Settings
+🎯 Future Enhancements
+AI Financial Chatbot
+Credit Score Analysis
+Loan Eligibility Prediction
+Tax Planning Assistant
+UPI Integration
+Bank Account Synchronization
+AI Investment Portfolio Builder
+Regional Language Support
+Financial Goal Tracker
+🔒 Security
+Encrypted user data
+Secure authentication
+Protected API routes
+Privacy-first architecture
+👩‍💻 Developer
+Yasmeen 
+Pratibha Yadav
+Naiya Agarwal 
+Neetu Bhati
 
-2. Start the app
+B.Tech CSE Student
+Passionate about AI, Cyber Security, Financial Technology, and Women Empowerment.
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+📄 License
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+This project is developed for educational, innovation, and financial empowerment purposes.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+⭐ If you like this project, don't forget to Star the repository and support the mission of financial empowerment through technology! ⭐
